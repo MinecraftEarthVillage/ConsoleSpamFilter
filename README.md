@@ -19,7 +19,7 @@
  1.点击左上角**文件**→项目结构→工件→ + →JAR→**来自具有依赖项的模块**，并且勾选**包含在项目构建中（B）**<br>
  <img width="626" alt="image" src="https://github.com/user-attachments/assets/3cc963c8-735b-4593-a4d7-f6903851dfbc"><br>
 2.在“主类”输入框写入**earthvillage.consolespamfilter.ConsoleSpamFilter**，其余不变，按下确定<br>
-<img width="873" alt="image" src="[https://github.com/user-attachments/assets/2df288c6-6205-4888-b09d-cd659210093d](https://github.com/user-attachments/assets/da19bddb-c179-431b-bc8c-6e6ab3878b8f)"><br>
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/da19bddb-c179-431b-bc8c-6e6ab3878b8f"><br>
 3.JAR文件输出目录与文件名字任选，只要你能找到<br>
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/b71e22b7-ab5b-4e38-b60f-56b68be3a4fd"><br>
 4.退回到编辑器，点击上方偏中间一点那个“锤子”，就开始生成JAR文件了<img width="873" alt="image" src="https://github.com/user-attachments/assets/2df288c6-6205-4888-b09d-cd659210093d"><br>
