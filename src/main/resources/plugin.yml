@@ -1,0 +1,19 @@
+name: ConsoleSpamFilter
+main: earthvillage.consolespamfilter.ConsoleSpamFilter
+version: 1.0
+author: Tiger
+  #
+  #      请注意！此插件带有部分中式代码！
+  #     请注意！此插件带有部分中式代码！
+  #    请注意！此插件带有部分中式代码！
+  #   纯属整活！纯属整活！
+  #  如遇异常请把它们翻译为英语                               yeee
+  #
+commands:
+  csfb:
+    description: 用来重载插件，也是此插件唯一一个指令（本来想写csf的但是和那个ConsoleSpamFix冲突了(⊙_⊙)？）
+    permission: csfb.reload
+permissions:
+  csfb.reload:
+    description: /csfb指令的权限（貌似没啥作用）
+    default: op

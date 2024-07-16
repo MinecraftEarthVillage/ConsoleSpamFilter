@@ -1,0 +1,4 @@
+name: ConsoleSpamFilter
+version: '${project.version}'
+main: earthvillage.consolespamfilter.ConsoleSpamFilter
+author: 我的世界地球村官方

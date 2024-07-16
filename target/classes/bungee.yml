@@ -1,0 +1,4 @@
+name: ConsoleSpamFilter
+version: '6.6.6'
+main: earthvillage.consolespamfilter.ConsoleSpamFilter
+author: 我的世界地球村官方

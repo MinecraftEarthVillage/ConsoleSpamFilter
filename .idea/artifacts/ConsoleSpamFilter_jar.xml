@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ConsoleSpamFilter:jar">
+    <output-path>$PROJECT_DIR$/../../../MC/server/群组测试/临时群组中转站/plugins</output-path>
+    <root id="archive" name="ConsoleSpamFilter.jar">
+      <element id="module-output" name="ConsoleSpamFilter" />
+    </root>
+  </artifact>
+</component>
