@@ -1,3 +1,10 @@
+# 哎呀！这个插件并没有想象中那么好，这只是利用拉跨JVAV技术写出来的屎
+
+要继续让控制台清洁，可以使用👉https://modrinth.com/plugin/console-spam-fix-reborn
+
+
+
+
 ### 用来屏蔽控制台的垃圾信息
 <br>
 **仅此而已**
